@@ -1,0 +1,23 @@
+.boxred{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: solid 2px;
+    background: red;
+}
+.boxgreen{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: solid 2px;
+    background: green;
+}
+
+.boxyellow{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: solid 2px;
+    background: yellow;
+
+}
